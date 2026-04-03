@@ -1,0 +1,23 @@
+src/main/sqliteStore.ts
+  4abd403fc94e2bbc 456
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.5",
+  "base_commit_sha": "cd081a96c89dde4c923b0b557a1b2a0515769fe7",
+  "prompts": {
+    "4abd403fc94e2bbc": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2f53dbe6-7d72-443e-970f-9e2275480d71",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "wowiscrazy",
+      "messages": [],
+      "total_additions": 2,
+      "total_deletions": 3,
+      "accepted_lines": 2,
+      "overriden_lines": 0
+    }
+  }
+}
